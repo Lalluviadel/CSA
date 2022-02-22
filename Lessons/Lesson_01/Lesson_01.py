@@ -1,4 +1,5 @@
 import subprocess
+
 import chardet
 
 '''
@@ -8,7 +9,8 @@ import chardet
 в формат Unicode и также проверить тип и содержимое переменных.
 '''
 
-def letters_to_unicode(words:list):
+
+def letters_to_unicode(words: list):
     """Converts string representation to Unicode format"""
     unicode_objects_collector = list()
 
@@ -26,6 +28,7 @@ def letters_to_unicode(words:list):
 
     return unicode_objects_collector
 
+
 words = ['разработка', 'сокет', 'декоратор']
 print('Задание 1.')
 result_01 = letters_to_unicode(words)
@@ -36,11 +39,13 @@ result_01 = letters_to_unicode(words)
 decode) и определить тип, содержимое и длину соответствующих переменных.
 '''
 
-def str_in_bytes(word:str):
+
+def str_in_bytes(word: str):
     """Converts string representation to byte representation"""
     byte_type = bytes(word, 'ascii')
     print(f'Тип данных: {type(byte_type)}, содержимое: {byte_type}, длина переменной: {len(byte_type)}')
     return byte_type
+
 
 words = ['class', 'function', 'method']
 print('\nЗадание 2.')
@@ -51,13 +56,15 @@ result_2 = list(map(str_in_bytes, words))
 невозможно записать в байтовом типе.
 '''
 
-def str_in_bytes_upd(word:str):
+
+def str_in_bytes_upd(word: str):
     """Converts string representation to byte representation with exception catching"""
     try:
         return bytes(word, 'ascii')
     except UnicodeEncodeError as e:
         print(f'Строковый объект "{e.object}" невозможно записать в байтовом типе '
               f'в кодировке ascii по причине: {e.reason}')
+
 
 words = ['attribute', 'класс', 'функция', 'type']
 print('\nЗадание 3.')
@@ -69,17 +76,20 @@ result_3 = list(map(str_in_bytes_upd, words))
 преобразование (используя методы encode и decode).
 """
 
-def encode_words(words:list):
+
+def encode_words(words: list):
     """Converts string representation to byte representation"""
     encoded_words = [word.encode('utf-8') for word in words]
     print('Байтовое представление: ', *encoded_words)
     return encoded_words
 
-def decode_words(words:list):
+
+def decode_words(words: list):
     """Converts byte representation to string representation"""
     decoded_words = [word.decode('utf-8') for word in words]
     print('Строковое представление: ', *decoded_words)
     return decoded_words
+
 
 words = ['разработка', 'администрирование', 'protocol', 'standard']
 print('\nЗадание 4.')
@@ -90,7 +100,8 @@ result_4 = decode_words(encode_words(words))
 результаты из байтовового в строковый тип на кириллице.
 """
 
-def ping_to_str(list_of_sites:list):
+
+def ping_to_str(list_of_sites: list):
     """Performs a ping of the site and converts byte representation to a string"""
     for site in list_of_sites:
         args = ['ping', site]
@@ -99,6 +110,7 @@ def ping_to_str(list_of_sites:list):
             data_analysis = chardet.detect(row)
             result = row.decode(data_analysis['encoding'])
             print(result)
+
 
 sites = ['yandex.ru', 'youtube.com']
 print('\nЗадание 5.')
@@ -110,6 +122,8 @@ ping_to_str(sites)
     Проверить кодировку файла по умолчанию. 
     Принудительно открыть файл в формате Unicode и вывести его содержимое.
 """
+
+
 # сетевое программирование
 # сокет
 # декоратор
@@ -135,6 +149,7 @@ def read_file():
         transcoding_and_recording()
         read_file()
     return
+
 
 print('\nЗадание 6.')
 read_file()

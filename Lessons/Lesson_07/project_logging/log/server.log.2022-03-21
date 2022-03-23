@@ -1,0 +1,143 @@
+2022-03-21 19:33:26,844 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 19:33:26,845 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 19:33:26,959 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:33:26,964 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-21 19:33:26,971 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:33:26,975 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-21 19:33:26,980 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 19:33:26,987 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 19:34:48,262 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 19:34:48,263 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 19:34:48,367 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:34:48,372 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-21 19:34:48,382 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:34:48,387 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-21 19:34:48,392 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 19:34:48,399 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 19:36:45,202 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 19:36:45,203 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 19:36:45,307 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:36:45,312 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-21 19:36:45,319 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:36:45,324 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-21 19:36:45,328 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 19:36:45,335 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 19:38:36,529 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 19:38:36,530 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 19:38:36,556 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:38:36,556 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-21 19:38:36,562 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:38:36,567 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-21 19:38:36,571 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 19:38:36,576 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 19:48:23,580 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 19:48:23,580 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 19:48:23,621 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:48:23,625 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-21 19:48:23,631 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:48:23,635 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-21 19:48:23,640 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 19:48:23,646 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 19:49:03,977 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 19:49:03,977 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 19:49:04,006 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:49:04,006 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-21 19:49:04,012 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 19:49:04,017 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-21 19:49:04,022 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 19:49:04,028 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 20:01:04,131 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:01:04,133 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 20:01:04,263 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=8079, a='127.0.0.1'),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:03:43,111 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:03:43,112 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-21 20:03:43,147 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=8079, a='127.0.0.1'),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:05:25,475 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:05:25,476 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:05:25,506 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:06:26,971 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:06:26,971 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:06:26,998 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:06:56,329 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:06:56,329 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:06:56,354 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:07:34,355 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:07:34,356 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:07:34,383 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:08:03,666 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:08:03,668 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:08:03,771 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:08:03,776 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-21 20:08:03,784 - DEBUG - classfile - Вызов функции validate_address c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:08:03,792 - DEBUG - classfile - Вызов функции server_parse_args c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 20:08:39,928 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:08:39,929 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:08:40,031 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:09:42,775 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:12:07,486 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:12:07,488 - CRITICAL - classfile - Ошибка валидации порта. Парсер аргументов команднойстроки не обнаружил атрибута 'p' Завершение работы. 
+2022-03-21 20:12:41,408 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:13:08,650 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:13:08,758 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:14:23,330 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:14:40,856 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:14:40,856 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:14:40,884 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:14:40,890 - CRITICAL - classfile - Ошибка валидации адреса. Парсер аргументов команднойстроки не обнаружил атрибута 'a' Завершение работы. 
+2022-03-21 20:14:53,718 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:15:08,637 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:15:08,748 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:15:22,049 - CRITICAL - classfile - Ошибка валидации адреса. Парсер аргументов команднойстроки не обнаружил атрибута 'a' Завершение работы. 
+2022-03-21 20:16:20,902 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 20:16:24,473 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 20:16:24,576 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:16:26,556 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-21 20:16:27,492 - DEBUG - classfile - Вызов функции validate_address c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 20:16:28,469 - DEBUG - classfile - Вызов функции server_parse_args c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 20:16:28,476 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-21 20:16:28,481 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-21 20:16:28,489 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 21:16:24,999 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 21:16:24,999 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 21:16:25,027 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:16:25,033 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-21 21:16:25,039 - DEBUG - classfile - Вызов функции validate_address c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:16:25,045 - DEBUG - classfile - Вызов функции server_parse_args c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 21:16:25,050 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-21 21:16:25,055 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиентов. 
+2022-03-21 21:16:25,061 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 21:16:36,406 - INFO - classfile - Успешное соединение с адресом ('127.0.0.1', 51994) 
+2022-03-21 21:16:36,413 - INFO - classfile - Принято сообщение от клиента <socket.socket fd=216, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51994)> 
+2022-03-21 21:16:36,420 - DEBUG - classfile - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1647886596.4070702, 'user': {'account_name': 'Guest'}}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-21 21:16:36,425 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-21 21:17:20,566 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 21:17:20,568 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 21:17:20,671 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:17:20,676 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-21 21:17:20,685 - DEBUG - classfile - Вызов функции validate_address c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:17:20,694 - DEBUG - classfile - Вызов функции server_parse_args c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 21:17:23,176 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-21 21:17:24,559 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиентов. 
+2022-03-21 21:17:24,570 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 21:18:33,319 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 21:18:33,320 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 21:18:33,347 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:18:33,353 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-21 21:18:33,360 - DEBUG - classfile - Вызов функции validate_address c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:18:33,367 - DEBUG - classfile - Вызов функции server_parse_args c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 21:18:33,373 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-21 21:18:33,379 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиентов. 
+2022-03-21 21:18:33,386 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 21:18:43,820 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-21 21:18:43,822 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-21 21:18:43,931 - DEBUG - classfile - Вызов функции validate_port c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:18:43,937 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-21 21:18:43,946 - DEBUG - classfile - Вызов функции validate_address c параметрами (Namespace(p=7777, a=''),), {} из модуля common.classfile, из функции server_parse_args 
+2022-03-21 21:18:43,954 - DEBUG - classfile - Вызов функции server_parse_args c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-21 21:18:50,315 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-21 21:18:50,323 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиентов. 
+2022-03-21 21:18:50,333 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-21 21:19:02,022 - INFO - classfile - Успешное соединение с адресом ('127.0.0.1', 52412) 
+2022-03-21 21:19:39,336 - INFO - classfile - Принято сообщение от клиента <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 52412)> 
+2022-03-21 21:19:39,348 - DEBUG - classfile - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1647886742.0225484, 'user': {'account_name': 'Guest'}}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-21 21:19:39,355 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 

@@ -1,0 +1,289 @@
+2022-03-10 00:56:49,797 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 00:56:49,799 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 00:56:49,805 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 00:56:49,811 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 00:56:49,906 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:00:43,727 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:00:43,727 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:00:43,733 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:00:43,739 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:00:43,745 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:04:11,157 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:10:21,474 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:10:21,474 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:10:38,687 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:10:38,688 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:11:51,952 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:11:51,952 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:11:51,956 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:12:02,205 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:12:02,205 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:12:11,852 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:12:11,852 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:12:11,858 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:19:39,649 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:19:39,649 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:19:39,677 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:22:13,941 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:22:13,941 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:22:13,946 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:22:13,950 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:22:13,955 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:22:27,422 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 01:22:27,427 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 01:24:52,419 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:24:52,419 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:24:52,424 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:24:52,428 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:24:52,432 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:29:45,658 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:29:45,658 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:29:45,663 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:29:45,668 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:29:45,673 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:30:18,050 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:30:18,050 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:30:18,056 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:30:18,061 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:30:18,066 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:30:59,333 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:30:59,334 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:30:59,339 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:30:59,343 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:30:59,348 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:31:38,705 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:31:38,705 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:31:38,710 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:31:38,715 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:31:38,719 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:37:43,740 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:37:43,741 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:37:43,747 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:37:43,751 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:37:43,755 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:45:10,840 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:45:10,840 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:45:10,845 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:45:10,849 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:45:10,853 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:46:01,433 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:46:01,433 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:46:01,438 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:46:01,442 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:46:01,447 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:46:18,463 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:46:18,464 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:46:18,469 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:46:18,474 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:46:18,479 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:52:38,733 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:52:38,734 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:52:38,739 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:52:38,744 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:52:38,748 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:52:46,119 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:52:46,119 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:52:46,124 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:52:46,128 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:52:46,133 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:53:07,057 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:53:07,057 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:53:07,063 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:53:07,067 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:53:07,071 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:53:28,524 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:53:28,524 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:53:28,529 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:53:28,534 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:53:28,539 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:55:10,509 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:55:10,510 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:55:10,515 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:55:10,520 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:55:10,525 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:55:37,203 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 01:55:37,209 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 01:59:11,630 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 01:59:11,631 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 01:59:11,657 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 01:59:11,663 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 01:59:11,670 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 01:59:11,675 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 01:59:11,681 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 01:59:11,687 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:15:08,266 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:15:08,267 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:15:08,291 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:15:08,296 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:15:08,302 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:15:08,308 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:15:08,313 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:15:08,320 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:16:24,836 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:16:24,837 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:16:24,861 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:16:24,867 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:16:24,872 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:16:24,878 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:16:24,882 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:16:24,888 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:17:26,671 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:17:26,671 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:17:26,697 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:17:26,703 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:17:26,710 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:17:26,716 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:17:26,721 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:17:26,728 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:19:21,058 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:19:21,059 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:19:21,065 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:19:21,073 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:19:21,080 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:20:04,707 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:20:04,708 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:20:04,736 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:20:04,744 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:20:04,752 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:21:01,296 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:21:01,297 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:21:01,325 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:21:01,334 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:21:01,341 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:21:34,306 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:21:34,306 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:21:34,334 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:21:34,343 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:21:34,351 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:23:54,145 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:23:54,145 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:23:54,173 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:23:54,181 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:23:54,188 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:25:33,301 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:25:33,302 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:25:33,330 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:25:33,338 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:25:33,346 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:25:33,354 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:25:33,362 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:25:33,370 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:25:58,333 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:25:58,335 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646868358.3336325, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:25:58,342 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:27:53,895 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:27:53,895 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:27:53,926 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:27:53,933 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:27:53,941 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:27:53,948 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:27:53,956 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:27:53,963 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:28:00,620 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:28:00,629 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646868480.6193085, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:28:00,636 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:30:22,867 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:30:22,867 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:30:22,896 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:30:22,903 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:30:22,912 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:30:22,919 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:30:22,927 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:30:22,935 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:30:26,299 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:30:26,310 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646868626.2994134, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:30:26,317 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:30:53,742 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:30:53,743 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646868653.7424622, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:30:53,751 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:32:49,325 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:32:49,325 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:32:49,352 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:32:49,360 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:32:49,368 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:32:49,375 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:32:49,383 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:32:49,390 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:32:56,906 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:32:56,916 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646868776.906419, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:32:56,922 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:33:21,310 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:33:21,311 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646868801.3094845, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:33:21,317 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:38:31,647 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:38:31,647 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-10 02:38:31,674 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:38:31,680 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-10 02:38:31,686 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:38:31,692 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-10 02:38:31,697 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:38:31,703 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:38:32,170 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:38:32,177 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646869112.1700644, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:38:32,183 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:45:55,466 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:45:55,466 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-10 02:45:55,492 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:45:55,498 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-10 02:45:55,504 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:45:55,510 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-10 02:45:55,515 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:45:55,521 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:45:55,989 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:45:55,997 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646869555.989806, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:45:56,002 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:49:15,194 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:49:15,194 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-10 02:49:15,220 - DEBUG - decorators - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:49:15,226 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-10 02:49:15,231 - DEBUG - decorators - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:49:15,236 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-10 02:49:15,241 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:49:15,247 - DEBUG - decorators - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:49:15,717 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:49:15,725 - DEBUG - decorators - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646869755.7174325, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:49:15,731 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:51:43,220 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:51:43,220 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-10 02:51:43,246 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:51:43,251 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-10 02:51:43,257 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:51:43,262 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-10 02:51:43,267 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:51:43,272 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:51:43,743 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:51:43,758 - DEBUG - classfile - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646869903.7436612, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:51:43,770 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:53:57,978 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:53:57,979 - DEBUG - classfile - Успешная валидация порта 8079 
+2022-03-10 02:53:58,004 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:53:58,010 - DEBUG - classfile - Успешная валидация адреса 127.0.0.1 
+2022-03-10 02:53:58,016 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:53:58,021 - DEBUG - classfile - Привязан сокет к адресу ('127.0.0.1', 8079) 
+2022-03-10 02:53:58,026 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:53:58,032 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:53:58,502 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:53:58,509 - DEBUG - classfile - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646870038.5024831, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:53:58,516 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 02:54:10,086 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 02:54:10,086 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 02:54:10,111 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:54:10,117 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 02:54:10,123 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 02:54:10,128 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 02:54:10,136 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 02:54:10,148 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 02:54:14,704 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 02:54:14,706 - DEBUG - classfile - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646870054.704323, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 02:54:14,711 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
+2022-03-10 19:43:46,038 - INFO - server_script - Сервер создан и готов к работе. 
+2022-03-10 19:43:46,042 - DEBUG - classfile - Успешная валидация порта 7777 
+2022-03-10 19:43:46,148 - DEBUG - classfile - Вызов функции validate_port c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 19:43:46,153 - DEBUG - classfile - Успешная валидация адреса  
+2022-03-10 19:43:46,160 - DEBUG - classfile - Вызов функции validate_address c параметрами (), {} из модуля common.classfile, из функции bind_and_listen 
+2022-03-10 19:43:46,165 - DEBUG - classfile - Привязан сокет к адресу ('', 7777) 
+2022-03-10 19:43:46,170 - DEBUG - classfile - Сервер прослушивает соединение. Ожидание клиента. 
+2022-03-10 19:43:46,176 - DEBUG - server_script - Вызов функции bind_and_listen c параметрами (), {} из модуля common.classfile, из функции server_start 
+2022-03-10 19:43:50,420 - INFO - classfile - Принято сообщение от клиента. 
+2022-03-10 19:43:50,421 - DEBUG - classfile - Вызов функции send_reply c параметрами ({'action': 'presence', 'time': 1646930630.4163268, 'user': {'account_name': 'Guest'}}, <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>), {} из модуля common.classfile, из функции accept_and_exchange 
+2022-03-10 19:43:50,428 - INFO - classfile - Отправлен ответ сервера клиенту. Сессия клиента завершена. 
